@@ -46,3 +46,8 @@ Extra Notes
 -
 
 This is my first proper python project and I'd appreciate any feedback on this!
+
+
+!DISCLAIMER!
+-
+THIS IS JUST A FUN PROJECT I HAVE MADE, PLEASE DO NOT USE IT FOR ANYTHING THAT REQUIRES REAL ENCRYPTION
