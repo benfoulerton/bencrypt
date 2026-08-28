@@ -7,6 +7,10 @@ requires-python = ">=3.8"
 authors = [
     {name = "Ben Foulerton"}
 ]
+license = {file = "LICENSE"}
+[project.urls]
+Homepage = "https://github.com/benfoulerton/bencrypt"
+Repository = "https://github.com/benfoulerton/bencrypt"
 
 [build-system]
 requires = ["setuptools>=61"]

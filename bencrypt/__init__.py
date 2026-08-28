@@ -74,7 +74,6 @@ def moveStringDiff(string, shiftList):
    which gets converted into a number."""
 def encryptWithPass(toEncrypt, password):
     password = (password * 100)
-    print(password)
     encryptedInput = moveStringDiff(toEncrypt, stringToNumberList(password))
     return encryptedInput
 
@@ -82,7 +81,6 @@ def encryptWithPass(toEncrypt, password):
    runs encryptWithPass just with a negated password number
    string to reverse the encryption."""
 def decryptWithPass(toDecrypt, password):
+    password = (password * 100)
     decryptedInput = moveStringDiff(toDecrypt, negateList(stringToNumberList(password)))
     return decryptedInput
-
-encryptWithPass("hi", "bumm")
