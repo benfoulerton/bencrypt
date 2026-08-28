@@ -5,7 +5,7 @@ bencrypt is a python module for simple cipher-style encyption.
 
 Installation Guide
 -
-Coming Soon
+pip -m install bencrypt
 
 
 Different functions:
@@ -46,6 +46,7 @@ Extra Notes
 -
 
 This is my first proper python project and I'd appreciate any feedback on this!
+You can contact me at benfoulerton@gmail.com
 
 
 !DISCLAIMER!
