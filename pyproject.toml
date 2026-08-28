@@ -1,7 +1,13 @@
 [project]
 name = "bencrypt"
 version = "0.1.0"
+description = "A simple encryption and cipher library for Python"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    {name = "Ben Foulerton"}
+]
 
 [build-system]
-requires = ["setuptools"]
+requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
