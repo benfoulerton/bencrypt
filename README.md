@@ -1,6 +1,6 @@
 # bencrypt.py
 
-bencrypt is a python module for simple cipher-style encyption.
+bencrypt is a python module for simple cipher-style encryption.
 - 
 
 Installation Guide
