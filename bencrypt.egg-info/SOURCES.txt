@@ -1,6 +1,0 @@
-bencrypt.py
-pyproject.toml
-bencrypt.egg-info/PKG-INFO
-bencrypt.egg-info/SOURCES.txt
-bencrypt.egg-info/dependency_links.txt
-bencrypt.egg-info/top_level.txt
